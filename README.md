@@ -28,7 +28,7 @@ sed -i 's/ip_back_2/10.10.10.11/' sql
 
 
 
-截图：
+截图：<br>
 ![image](https://user-images.githubusercontent.com/71164067/142596954-e390cb9e-c10a-4f4a-be45-b8576729c917.png)
 
 
@@ -43,7 +43,7 @@ sed -i 's/ip_back_2/10.10.10.11/' sql
 
 使用方式为：运行脚本参数:第一个参数为ssh连接ip地址,第二个参数为登录密码,第三个参数为修改后的密码
 
-截图
+截图：<br>
 ![image](https://user-images.githubusercontent.com/71164067/142596976-f46c7286-6785-43a1-9cb2-59c97a3f0a0e.png)
 
 
